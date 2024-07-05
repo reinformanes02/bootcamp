@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/3D Platformer Game Kit - Low Poly/Scenes/Game.unity
+    guid: 5da11cae93bb3e440884e6bcc89a50b0
   m_configObjects: {}
